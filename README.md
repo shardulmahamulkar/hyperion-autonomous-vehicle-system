@@ -113,7 +113,7 @@ Cone positions from YOLO bounding boxes → custom geometry to calculate midpoin
 - **Raspberry Pi** — attempted, replaced
 
 ---
-#  Disclaimer — Read Before Running
+#  Disclaimer : Read Before Running
 
 This code was written under competition conditions. It worked on our specific hardware setup during the championship. It may or may not work for you depending on your setup.
 
@@ -168,7 +168,7 @@ To reproduce, train **YOLOv8n** on a cone dataset with classes:
 ## Team
 
 Built by a core team of 3 as part of STES Hyperion's solar vehicle program.  
-CV/software system designed and implemented by me.
+
 
 ---
 
