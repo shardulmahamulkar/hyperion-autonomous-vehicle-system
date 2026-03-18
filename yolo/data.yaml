@@ -1,0 +1,5 @@
+train: E:\\yolo\\train  # Path to training images
+val: E:\\yolo\\val      # Path to validation images
+
+nc: 2  # Number of classes (blue_cone and yellow_cone)
+names: ['blue_cone', 'yellow_cone']  # Class names
